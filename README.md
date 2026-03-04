@@ -1,5 +1,6 @@
 # End-to-End-Customer-Behaviour-Analytics-Pipeline-Python-PostgreSQL-Power-BI-
-or data cleaning, PostgreSQL for business analysis, and Power BI for interactive dashboards to uncover spending patterns, customer segmentation, and revenue drivers.
+
+End-to-end customer behaviour analytics project analyzing 3,900 retail transactions using Python for data cleaning, PostgreSQL for business analysis, and Power BI for interactive dashboards to uncover spending patterns, customer segmentation, and revenue drivers.
 
 This project analyzes customer shopping behavior using 3,900 retail transactions to uncover insights about purchasing patterns, product performance, discount effectiveness, and customer loyalty.
 
@@ -26,7 +27,6 @@ Power BI Dashboard Visualization
 ## Dataset Overview
 
 The dataset contains 3,900 retail transactions with 18 attributes describing customer demographics, purchase details, and shopping behavior.
-
 Key features include:
 
 - Age
@@ -86,8 +86,8 @@ Visualizations include:
 - Revenue by Age Group
 - Subscription Distribution
 - Sales by Age Group
--
-- <img width="883" height="480" alt="Customer_behaviour_analysis" src="https://github.com/user-attachments/assets/804bda0c-d635-4142-bb51-3c11e63547ca" />
+  
+ <img width="883" height="480" alt="Customer_behaviour_analysis" src="https://github.com/user-attachments/assets/804bda0c-d635-4142-bb51-3c11e63547ca" />
 
 ## Technologies Used
 
